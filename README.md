@@ -308,9 +308,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋‍♀️ Author
 
 **Rupali Bharti**
-- 📧 Email: [rupali4bharti@gmail.com](mailto:rupali4bharti@gmail.com)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/rupalibharti)
-- 🐙 GitHub: [@rupalibharti](https://github.com/rupalibharti)
+- 📧 Email: [rupali4bharti@gmail.com](mailto:rupali4bharti@gmail.co)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/rupali-bharti-13aa78257/)
+- 🐙 GitHub: [@rupalibharti](https://github.com/she-codes3298)
 
 ## 🆘 Troubleshooting
 
