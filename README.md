@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Chrome-Extension-blue?style=for-the-badge&logo=google-chrome"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/AI-DistilBERT-orange?style=for-the-badge&logo=huggingface"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+  
 </div>
 
 A sophisticated Chrome extension that protects sensitive Indian personal information in emails using AI-powered detection and advanced steganographic encryption. The system uses a custom-trained DistilBERT NER model to identify sensitive data and converts it into human-readable text using word-pattern steganography.
